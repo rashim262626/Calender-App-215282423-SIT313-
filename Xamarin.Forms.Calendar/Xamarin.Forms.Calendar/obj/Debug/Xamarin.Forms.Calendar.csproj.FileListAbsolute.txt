@@ -1,0 +1,11 @@
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\bin\Debug\Xamarin.Forms.Calendar.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\bin\Debug\Xamarin.Forms.Calendar.pdb
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\bin\Debug\Xamarin.Forms.Core.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\bin\Debug\Xamarin.Forms.Core.xml
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\obj\Debug\Xamarin.Forms.Calendar.csprojAssemblyReference.cache
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\obj\Debug\Xamarin.Forms.Calendar.csproj.CoreCompileInputs.cache
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\obj\Debug\Xamarin.Forms.Calendar.csproj.CopyComplete
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\obj\Debug\Xamarin.Forms.Calendar.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar\obj\Debug\Xamarin.Forms.Calendar.pdb

@@ -1,0 +1,13 @@
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.csprojAssemblyReference.cache
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.csproj.CoreCompileInputs.cache
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.CalendarSampleApp.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.CalendarSampleApp.pdb
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Calendar.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Calendar.pdb
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.csproj.CopyComplete
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.dll
+D:\xamarianworkspace\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.pdb
